@@ -1,0 +1,206 @@
+from,to,year,decade,relationship
+Pele,FC Santos,1956,50,1
+Pele,FC Santos,1957,50,1
+Pele,FC Santos,1958,50,1
+Pele,FC Santos,1959,50,1
+Pele,FC Santos,1960,60,1
+Pele,FC Santos,1961,60,1
+Pele,FC Santos,1962,60,1
+Pele,FC Santos,1963,60,1
+Pele,FC Santos,1964,60,1
+Pele,FC Santos,1965,60,1
+Pele,FC Santos,1966,60,1
+Pele,FC Santos,1967,60,1
+Pele,FC Santos,1968,60,1
+Pele,FC Santos,1969,60,1
+Pele,FC Santos,1970,70,1
+Pele,FC Santos,1971,70,1
+Pele,FC Santos,1972,70,1
+Pele,FC Santos,1973,70,1
+Pele,FC Santos,1974,70,1
+Pele,New York Cosmos,1975,70,1
+Pele,New York Cosmos,1976,70,1
+Pele,New York Cosmos,1977,70,1
+Maradona,Argentinos Juniors,1976,70,1
+Maradona,Argentinos Juniors,1977,70,1
+Maradona,Argentinos Juniors,1978,70,1
+Maradona,Argentinos Juniors,1979,70,1
+Maradona,Argentinos Juniors,1980,80,1
+Maradona,Argentinos Juniors,1981,80,1
+Maradona,Boca Juniors,1981,80,1
+Maradona,Boca Juniors,1982,80,1
+Maradona,FC Barcelona,1982,80,1
+Maradona,FC Barcelona,1983,80,1
+Maradona,FC Barcelona,1984,80,1
+Maradona,SSC Neapel,1984,80,1
+Maradona,SSC Neapel,1985,80,1
+Maradona,SSC Neapel,1986,80,1
+Maradona,SSC Neapel,1987,80,1
+Maradona,SSC Neapel,1988,80,1
+Maradona,SSC Neapel,1989,80,1
+Maradona,SSC Neapel,1990,90,1
+Maradona,SSC Neapel,1991,90,1
+Maradona,FC Sevilla,1992,90,1
+Maradona,FC Sevilla,1993,90,1
+Maradona,Newells Old Boys,1993,90,1
+Maradona,Boca Juniors,1995,90,1
+Maradona,Boca Juniors,1996,90,1
+Maradona,Boca Juniors,1997,90,1
+Cruyff,Ajax Amsterdam,1964,60,1
+Cruyff,Ajax Amsterdam,1965,60,1
+Cruyff,Ajax Amsterdam,1966,60,1
+Cruyff,Ajax Amsterdam,1967,60,1
+Cruyff,Ajax Amsterdam,1968,60,1
+Cruyff,Ajax Amsterdam,1969,60,1
+Cruyff,Ajax Amsterdam,1970,70,1
+Cruyff,Ajax Amsterdam,1971,70,1
+Cruyff,Ajax Amsterdam,1972,70,1
+Cruyff,Ajax Amsterdam,1973,70,1
+Cruyff,FC Barcelona,1973,70,1
+Cruyff,FC Barcelona,1974,70,1
+Cruyff,FC Barcelona,1975,70,1
+Cruyff,FC Barcelona,1976,70,1
+Cruyff,FC Barcelona,1977,70,1
+Cruyff,FC Barcelona,1978,70,1
+Cruyff,Los Angeles Aztecs,1979,70,1
+Cruyff,Washington Diplomats,1980,80,1
+Cruyff,Washington Diplomats,1981,80,1
+Cruyff,UD Levante,1981,80,1
+Cruyff,Ajax Amsterdam,1981,80,1
+Cruyff,Ajax Amsterdam,1982,80,1
+Cruyff,Ajax Amsterdam,1983,80,1
+Cruyff,Feyenoord Rotterdam,1983,80,1
+Cruyff,Feyenoord Rotterdam,1984,80,1
+Beckenbauer,FC Bayern Munchen,1964,60,1
+Beckenbauer,FC Bayern Munchen,1965,60,1
+Beckenbauer,FC Bayern Munchen,1966,60,1
+Beckenbauer,FC Bayern Munchen,1967,60,1
+Beckenbauer,FC Bayern Munchen,1968,60,1
+Beckenbauer,FC Bayern Munchen,1969,60,1
+Beckenbauer,FC Bayern Munchen,1970,70,1
+Beckenbauer,FC Bayern Munchen,1971,70,1
+Beckenbauer,FC Bayern Munchen,1972,70,1
+Beckenbauer,FC Bayern Munchen,1973,70,1
+Beckenbauer,FC Bayern Munchen,1974,70,1
+Beckenbauer,FC Bayern Munchen,1975,70,1
+Beckenbauer,FC Bayern Munchen,1976,70,1
+Beckenbauer,FC Bayern Munchen,1977,70,1
+Beckenbauer,New York Cosmos,1977,70,1
+Beckenbauer,New York Cosmos,1978,70,1
+Beckenbauer,New York Cosmos,1979,70,1
+Beckenbauer,New York Cosmos,1980,80,1
+Beckenbauer,Hamburger SV,1980,80,1
+Beckenbauer,Hamburger SV,1981,80,1
+Beckenbauer,Hamburger SV,1982,80,1
+Beckenbauer,New York Cosmos,1983,80,1
+Platini,AS Nancy,1972,70,1
+Platini,AS Nancy,1973,70,1
+Platini,AS Nancy,1974,70,1
+Platini,AS Nancy,1975,70,1
+Platini,AS Nancy,1976,70,1
+Platini,AS Nancy,1977,70,1
+Platini,AS Saint Etienne,1979,70,1
+Platini,AS Saint Etienne,1980,80,1
+Platini,AS Saint Etienne,1981,80,1
+Platini,AS Saint Etienne,1982,80,1
+Platini,Juventus Turin,1982,80,1
+Platini,Juventus Turin,1983,80,1
+Platini,Juventus Turin,1984,80,1
+Platini,Juventus Turin,1985,80,1
+Platini,Juventus Turin,1986,80,1
+Platini,Juventus Turin,1987,80,1
+Cruyff,Ajax Amsterdam,1985,80,2
+Cruyff,Ajax Amsterdam,1986,80,2
+Cruyff,Ajax Amsterdam,1987,80,2
+Cruyff,Ajax Amsterdam,1988,80,2
+Cruyff,Ajax Amsterdam,1988,80,2
+Cruyff,Ajax Amsterdam,1989,80,2
+Cruyff,Ajax Amsterdam,1990,90,2
+Cruyff,Ajax Amsterdam,1991,90,2
+Cruyff,FC Barcelona,1992,90,2
+Cruyff,FC Barcelona,1994,90,2
+Cruyff,FC Barcelona,1995,90,2
+Cruyff,FC Barcelona,1996,90,2
+Pele,Brasilien,1957,50,1
+Pele,Brasilien,1958,50,1
+Pele,Brasilien,1959,50,1
+Pele,Brasilien,1960,60,1
+Pele,Brasilien,1961,60,1
+Pele,Brasilien,1962,60,1
+Pele,Brasilien,1963,60,1
+Pele,Brasilien,1964,60,1
+Pele,Brasilien,1965,60,1
+Pele,Brasilien,1966,60,1
+Pele,Brasilien,1967,60,1
+Pele,Brasilien,1968,60,1
+Pele,Brasilien,1969,60,1
+Pele,Brasilien,1970,70,1
+Pele,Brasilien,1971,70,1
+Maradona,Argentinien,1977,70,1
+Maradona,Argentinien,1978,70,1
+Maradona,Argentinien,1979,70,1
+Maradona,Argentinien,1980,80,1
+Maradona,Argentinien,1981,80,1
+Maradona,Argentinien,1982,80,1
+Maradona,Argentinien,1983,80,1
+Maradona,Argentinien,1984,80,1
+Maradona,Argentinien,1985,80,1
+Maradona,Argentinien,1986,80,1
+Maradona,Argentinien,1987,80,1
+Maradona,Argentinien,1988,80,1
+Maradona,Argentinien,1989,80,1
+Maradona,Argentinien,1990,90,1
+Maradona,Argentinien,1991,90,1
+Maradona,Argentinien,1992,90,1
+Maradona,Argentinien,1993,90,1
+Maradona,Argentinien,1994,90,1
+Cruyff,Niederlande,1966,60,1
+Cruyff,Niederlande,1967,60,1
+Cruyff,Niederlande,1968,60,1
+Cruyff,Niederlande,1969,60,1
+Cruyff,Niederlande,1970,70,1
+Cruyff,Niederlande,1971,70,1
+Cruyff,Niederlande,1972,70,1
+Cruyff,Niederlande,1973,70,1
+Cruyff,Niederlande,1974,70,1
+Cruyff,Niederlande,1975,70,1
+Cruyff,Niederlande,1976,70,1
+Cruyff,Niederlande,1977,70,1
+Beckenbauer,Deutschland,1965,60,1
+Beckenbauer,Deutschland,1966,60,1
+Beckenbauer,Deutschland,1967,60,1
+Beckenbauer,Deutschland,1968,60,1
+Beckenbauer,Deutschland,1969,60,1
+Beckenbauer,Deutschland,1970,70,1
+Beckenbauer,Deutschland,1971,70,1
+Beckenbauer,Deutschland,1972,70,1
+Beckenbauer,Deutschland,1973,70,1
+Beckenbauer,Deutschland,1974,70,1
+Beckenbauer,Deutschland,1975,70,1
+Beckenbauer,Deutschland,1976,70,1
+Beckenbauer,Deutschland,1977,70,1
+Beckenbauer,Deutschland,1984,80,2
+Beckenbauer,Deutschland,1985,80,2
+Beckenbauer,Deutschland,1986,80,2
+Beckenbauer,Deutschland,1987,80,2
+Beckenbauer,Deutschland,1988,80,2
+Beckenbauer,Deutschland,1989,80,2
+Beckenbauer,Deutschland,1990,90,2
+Platini,Frankreich,1976,70,1
+Platini,Frankreich,1977,70,1
+Platini,Frankreich,1978,70,1
+Platini,Frankreich,1979,70,1
+Platini,Frankreich,1980,80,1
+Platini,Frankreich,1981,80,1
+Platini,Frankreich,1982,80,1
+Platini,Frankreich,1983,80,1
+Platini,Frankreich,1984,80,1
+Platini,Frankreich,1985,80,1
+Platini,Frankreich,1986,80,1
+Platini,Frankreich,1987,80,1
+Platini,Kuwait,1988,80,1
+Platini,Frankreich,1988,80,2
+Platini,Frankreich,1989,80,2
+Platini,Frankreich,1990,90,2
+Platini,Frankreich,1991,90,2
+Platini,Frankreich,1992,90,2
