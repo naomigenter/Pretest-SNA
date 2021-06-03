@@ -1,0 +1,107 @@
+---
+title: "Codebuch Netzwerk Weltfußballer und ihre Karrierewege"
+author: "Gruppe Weltfußballer"
+date: "6/1/2021"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+## Team
+Projektleitung: Dunja Fadel, df054
+
+Dunja Fadel, df054
+Naomi Genter, ng072 
+Christina Menner, cm142
+Veronika Veile, vv013
+Jakob Hertl, jh256
+
+## Github und Datensammlung 
+Die Dateien des Pretests liegen in unserem Github-Verzeichnis https://github.com/naomigenter/Pretest-SNA
+
+und werden in Google Table zusammengetragen 
+https://docs.google.com/spreadsheets/d/1WUfWLkCpP69rFzgqIyUWKvUB6LDpYbBlnb2H8JxK5Ks/edit#gid=781885937 
+
+
+## Ursprung und Datenerhebung 
+
+Wir untersuchen, welche der Top 100 Spieler des 20. Jahrhunderts zeitgleich im selben Verein und/oder der selben Nationalmannschaft gespielt haben. Zudem untersuchen wir ihre Karrierewege danach als Trainer/Berater. Den Datensatz erheben wir anhand offiziell zugänglichen Listen. Siehe: https://de.wikipedia.org/wiki/World_Soccer#Spieler_des_Jahres / http://www.englandfootballonline.com/TeamHons/HonsWldSocPlyrsCent.html
+
+# Edge-Attribute 
+
+**from** 
+entspricht der id in der Nodelist und definiert den jeweiligen Knoten, hier ausschließlich Fußballspieler/-trainer
+
+**to** 
+entspricht dem Verein oder der Nationalmannschaft, in dem der Spieler während eines bestimmten Jahrzehnts oder Jahr gespielt hat, hier ausschließlich Nationalmannschaften oder Vereine
+
+**year**
+definiert das Jahr, in dem der jeweilige Spieler/Trainer bei einem Verein / einer Nationalmannschaft gespielt oder trainiert hat 
+
+**decade** 
+definiert, in welchem Jahrzehnt der Spieler/Trainer in dem Verein / der Nationalmannschaft aktiv war 
+
+**relationship**
+definiert die Art der Beziehung 
+1 = Spieler im Verein / in der Nationalmannschaft 
+2 = Trainer des Vereins / der Nationalmannschaft 
+
+# Node-Attribute 
+
+**id** 
+eindeutige Identifikation jedes Einzelnen Knotens, der erfasst wird. Hier sowohl Spieler, als auch Vereine und Nationalmannschaften 
+
+**name**
+Name / Bezeichnung der Knoten (der Spieler/Vereine/Nationalmannschaften), wie sie im Netzwerk später angezeigt werden 
+
+**type**
+definiert die Art des Knotens
+1 = Spieler 
+2 = Verein 
+3 = Nationalmannschaft 
+
+**nationality** 
+definiert die Nationalität der Spieler / des Vereins, aktuell NICHT numerisch codiert 
+
+**birth**
+definiert das Jahr,  in dem die einzelnen Spieler geboren sind, numerisch in Jahreszahlen codiert 
+
+**career**
+definiert, ab wann die einzelnen Spieler bei der ersten Herrenmannschaft gespielt haben, numerisch in Jahreszahlen codiert 
+
+**startage**
+definiert, ab welchem Alter die Spieler ihre Profikarriere gestartet haben, zusammengefasst in 
+1 = U18 
+2 = 18 bis 20 
+3 = Ü20 
+
+**position**
+definiert, welche Position die Spieler hauptsächlich besetzt haben 
+1 = Torwart 
+2 = Defensiv 
+3 = Offensiv 
